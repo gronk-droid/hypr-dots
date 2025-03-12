@@ -58,6 +58,7 @@ ttf-iosevka-nerd
 ttf-iosevkaterm-nerd
 uv
 waybar
+wget
 which
 wl-clipboard
 wofi
